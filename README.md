@@ -1,7 +1,5 @@
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=ff69b4,ff1493,c71585&text=Akhila%20Gannireddy&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=ff69b4,ff1493,c71585&text=Akhila%20Gannireddy&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Java%20Programmer&descAlignY=60&descSize=18"/>
 
 # 👋 Hi, I'm Akhila Gannireddy
 
@@ -18,16 +16,18 @@
 <a href="https://github.com/Akhila-Gannireddy">
 <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/akhila-gannireddy-0a3402370/">
 <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:gannireddyakhila@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=BhavyaAkhila&style=for-the-badge&color=ff69b4"/>
+<br/>
+
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=ff69b4&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FBhavyaAkhila&logo=github"/>
+<img src="https://img.shields.io/github/stars/BhavyaAkhila?style=for-the-badge&color=ff69b4&label=Stars"/>
+<img src="https://komarev.com/ghpvc/?username=BhavyaAkhila&style=for-the-badge&color=ff69b4&label=Profile+Views"/>
 
 </div>
 
@@ -35,58 +35,55 @@
 
 ## 🌸 About Me
 
-💻 Passionate about **Software Development**, **Artificial Intelligence**, and **Data Science**
+<table>
+<tr>
+<td width="65%" valign="top">
 
-🎓 B.Tech CSE (Data Science)
+- 💻 Passionate about **Software Development**, **Artificial Intelligence**, and **Data Science**
+- 🎓 B.Tech CSE (Data Science)
+- 🌱 Currently learning **Spring Boot**, **System Design**, and **Machine Learning**
+- 🚀 Building real-world applications and strengthening my problem-solving skills through **Data Structures & Algorithms**
+- 🎯 Aspiring to become a **Software Engineer / AI Engineer**
+- ✨ I believe in learning by building, improving one project at a time.
+- 🧩 Fun Fact — I can solve a Rubik's cube in less than 3 minutes!
 
-🌱 Currently learning **Spring Boot**, **System Design**, and **Machine Learning**
+</td>
+<td width="35%" valign="top">
+<img src="https://media.giphy.com/media/QGCpiv8VDeCB0kMzZH/giphy.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
-🚀 Building real-world applications and strengthening my problem-solving skills through **Data Structures & Algorithms**
+> 🖼️ Swap the gif above for your own cyberpunk-avatar image — drop the image into your repo (e.g. `assets/avatar.png`) and point the `src` to it, or grab a free anime/cyberpunk-style avatar from [DiceBear](https://www.dicebear.com/) or [Notion Avatar Maker](https://notion-avatar.vercel.app/).
 
-🎯 Aspiring to become a **Software Engineer / AI Engineer** 
+---
 
-✨ I believe in learning by building, improving one project at a time.
-
-
-  ✨ Fun Fact-I can solve a rubix cube is less than 3 minutes 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
 ### 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,html,sql" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,html,css,sql&theme=dark"/>
 
 ### 🚀 Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,spring" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,spring&theme=dark"/>
 
 ### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
 
 ### 🛠️ Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman&theme=dark"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
 | 🌟 Project | 📄 Description |
-|------------|----------------|
+|:---:|:---|
 | 🌾 **PrajaConnect** | A full-stack platform connecting politicians and citizens using React, Spring Boot, and MySQL. |
 | 🤖 **AI & Data Science Projects** | A growing collection of Python-based data analysis and machine learning projects. |
 
@@ -94,63 +91,54 @@
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
 <div align="center">
 
-🥇 Google AI Essentials
-
-🐍 IBM Python for Data Science 
-
-☁️ AWS Cloud Practicioner
-
-</div>
-
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=BhavyaAkhila&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Google%20AI%20Essentials-FF69B4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/IBM%20Python%20for%20Data%20Science-FF69B4?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF69B4?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+## 🔥 GitHub Streak
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BhavyaAkhila&theme=tokyo-night&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=BhavyaAkhila&theme=tokyonight&hide_border=true&background=0D1117&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4"/>
 </div>
 
+---
 
+## 📈 Contribution Graph
 
-# 🤝 Let's Connect
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BhavyaAkhila&theme=react-dark&hide_border=true&color=ff69b4&line=ff1493&point=ffffff"/>
+</div>
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/akhila-gannireddy-0a3402370/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:gannireddyakhila@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/BhavyaAkhila">
+<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/BhavyaAkhila">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+**"See you in the next commit 🌸"**
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=BhavyaAkhila&style=for-the-badge&color=blueviolet"/>
-
+<img src="https://komarev.com/ghpvc/?username=BhavyaAkhila&style=for-the-badge&color=ff69b4"/>
 </div>
-
----
