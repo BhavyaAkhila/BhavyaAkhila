@@ -88,7 +88,6 @@
 | 🌟 Project | 📄 Description |
 |------------|----------------|
 | 🌾 **PrajaConnect** | A full-stack platform connecting politicians and citizens using React, Spring Boot, and MySQL. |
-| 📚 **DSA Journey** | Java solutions for Data Structures & Algorithms from LeetCode and GeeksforGeeks. |
 | 🤖 **AI & Data Science Projects** | A growing collection of Python-based data analysis and machine learning projects. |
 
 </div>
