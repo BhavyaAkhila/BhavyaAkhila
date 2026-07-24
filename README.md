@@ -1,13 +1,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Akhila%20Gannireddy&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=ff69b4,ff1493,c71585&text=Akhila%20Gannireddy&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
 # 👋 Hi, I'm Akhila Gannireddy
 
 ### 💜 AI & Data Science Student | Java Programmer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Java+Developer;Spring+Boot+Learner;Machine+Learning+Enthusiast;Building+Real-World+Projects;Always+Learning+Something+New!" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Java+Developer;Spring+Boot+Learner;Machine+Learning+Enthusiast;Building+Real+World+Projects;Always+Learning+Something+New!"/>
 
 </div>
 
@@ -16,18 +16,18 @@
 <div align="center">
 
 <a href="https://github.com/Akhila-Gannireddy">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/akhila-gannireddy-0a3402370/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:gannireddyakhila@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Akhila-Gannireddy&style=for-the-badge&color=blueviolet" />
+<img src="https://komarev.com/ghpvc/?username=BhavyaAkhila&style=for-the-badge&color=ff69b4"/>
 
 </div>
 
