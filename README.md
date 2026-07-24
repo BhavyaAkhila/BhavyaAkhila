@@ -54,9 +54,7 @@
 </tr>
 </table>
 
-> 🖼️ Swap the gif above for your own cyberpunk-avatar image — drop the image into your repo (e.g. `assets/avatar.png`) and point the `src` to it, or grab a free anime/cyberpunk-style avatar from [DiceBear](https://www.dicebear.com/) or [Notion Avatar Maker](https://notion-avatar.vercel.app/).
 
----
 
 ## 💻 Tech Stack
 
