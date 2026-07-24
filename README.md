@@ -46,6 +46,9 @@
 🎯 Aspiring to become a **Software Engineer / AI Engineer** 
 
 ✨ I believe in learning by building, improving one project at a time.
+✨ Fun Fact
+
+**I can solve a rubix cube is less than 3 minutes **
 # 💻 Tech Stack
 
 <div align="center">
@@ -104,25 +107,6 @@
 
 </div>
 
----
-
-
-
-# ✨ Fun Fact
-
-> **I can solve a rubix cube is less than 3 minutes **
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BhavyaAkhila&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavyaAkhila&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
