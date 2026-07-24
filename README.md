@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=ff69b4,ff1493,c71585&text=Akhila%20Gannireddy&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Java%20Programmer&descAlignY=60&descSize=18"/>
+<img src="assets/banner.svg" width="100%"/>
 
 # 👋 Hi, I'm Akhila Gannireddy
 
@@ -49,12 +49,12 @@
 
 </td>
 <td width="35%" valign="top">
-<img src="https://media.giphy.com/media/QGCpiv8VDeCB0kMzZH/giphy.gif" width="100%"/>
+<img src="assets/profile_pic.jpg" width="100%"/>
 </td>
 </tr>
 </table>
 
-
+---
 
 ## 💻 Tech Stack
 
