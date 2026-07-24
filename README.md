@@ -46,9 +46,9 @@
 🎯 Aspiring to become a **Software Engineer / AI Engineer** 
 
 ✨ I believe in learning by building, improving one project at a time.
-✨ Fun Fact
 
-**I can solve a rubix cube is less than 3 minutes **
+
+  ✨ Fun Fact-I can solve a rubix cube is less than 3 minutes 
 # 💻 Tech Stack
 
 <div align="center">
