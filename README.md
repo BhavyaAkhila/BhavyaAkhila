@@ -9,29 +9,7 @@
 
 </div>
 
----
 
-<div align="center">
-
-<a href="https://github.com/Akhila-Gannireddy">
-<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/akhila-gannireddy-0a3402370/">
-<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:gannireddyakhila@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=ff69b4&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FBhavyaAkhila&logo=github"/>
-<img src="https://img.shields.io/github/stars/BhavyaAkhila?style=for-the-badge&color=ff69b4&label=Stars"/>
-<img src="https://komarev.com/ghpvc/?username=BhavyaAkhila&style=for-the-badge&color=ff69b4&label=Profile+Views"/>
-
-</div>
-
----
 
 ## 🌸 About Me
 
