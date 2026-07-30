@@ -77,15 +77,7 @@
 
 </div>
 
----
 
-## 🔥 GitHub Streak
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=BhavyaAkhila&theme=tokyonight&hide_border=true&background=0D1117&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4"/>
-</div>
-
----
 
 ## 📈 Contribution Graph
 
