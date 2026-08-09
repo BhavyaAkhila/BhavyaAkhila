@@ -2,10 +2,6 @@
 
 ### 💜 CSE Student | Aspiring Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Enthusiast;Building+Real+World+Projects;Always+Learning+Something+New!"/>
-
-</div>
-
 
 
 ## 🌸 About Me
