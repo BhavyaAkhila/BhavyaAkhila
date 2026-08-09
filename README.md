@@ -67,15 +67,6 @@
 
 ---
 
-## 📜 Certifications
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Google%20AI%20Essentials-FF69B4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/IBM%20Python%20for%20Data%20Science-FF69B4?style=for-the-badge&logo=ibm&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF69B4?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-</div>
 
 
 
