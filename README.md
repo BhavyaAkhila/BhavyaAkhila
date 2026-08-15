@@ -1,4 +1,4 @@
-# Hi there! 🙋‍♀️
+# Hi there! 
 
 I'm **Akhila Gannireddy**, a **CSE (Data Science) student** passionate about **Software Development, Artificial Intelligence, and Data Science**.
 
