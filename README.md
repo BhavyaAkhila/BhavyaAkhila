@@ -8,7 +8,6 @@ Outside of code, you can find me working on projects, learning something new, or
 
 ### Currently
 
-- 🌱 Learning **Spring Boot, DSA & Machine Learning**
 - 🚀 Building **real-world projects**
 - 🎯 Working towards becoming a **Software / AI Engineer**
 - ☕ Trying to convince my code to work on the first try
